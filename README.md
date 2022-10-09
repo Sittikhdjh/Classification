@@ -2,7 +2,7 @@
 
 As we know in Machine Learning (ML), logistic regression is called Classification.
 
-Create a logistic regression based on the bank data that I provide in this repository.
+Create a logistic regression based on the bank data that I provide on this repository.
 
 The data is based on the marketing campaign efforts of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
